@@ -1,0 +1,7 @@
+{
+    "The :attribute must contain at least one letter.": "Minimalus skirtingų simbolių klasių kiekis: 1",
+    "The :attribute must contain at least one number.": "Minimalus skaičių kiekis: 1",
+    "The :attribute must contain at least one symbol.": "Įvestas tekstas privalo turėti bent vieną simbolį",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute."
+}
